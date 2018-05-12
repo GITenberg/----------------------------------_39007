@@ -1,0 +1,35 @@
+_repo: '----------------------------------_39007'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39007-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kampyses, Giannes
+    aliases:
+    - Kampysis, Giannis
+    - Kambisis, Iannis
+    - Kambisis, Ioannis
+    - Kambisis, Joannes
+    - Kambisis, Yannis
+    - Καμπύσης, Γιάννης
+    - Kambissis, Ghiannis
+    birthdate: 1872
+    deathdate: 1901
+    gutenberg_agent_id: '39784'
+    url: http://www.gutenberg.org/2009/agents/39784
+    wikipedia: http://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%9A%CE%B1%CE%BC%CF%80%CF%8D%CF%83%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2012-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39007'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PA'
+title: Μυστικό του Γάμου - Φάρσα της Ζωής
+url: http://www.gutenberg.org/ebooks/39007
